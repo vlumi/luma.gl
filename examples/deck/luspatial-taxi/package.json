@@ -16,7 +16,7 @@
     "@luma.gl/experimental": "9.4.0-alpha.4",
     "@luma.gl/shadertools": "9.4.0-alpha.4",
     "@luma.gl/webgpu": "9.4.0-alpha.4",
-    "maplibre-gl": "^5.20.0"
+    "maplibre-gl": "^6.4.1"
   },
   "devDependencies": {
     "typescript": "^6.0.3",
