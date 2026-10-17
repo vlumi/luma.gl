@@ -13,7 +13,7 @@
     "@luma.gl/shadertools": "9.4.0-alpha.4",
     "@luma.gl/webgl": "9.4.0-alpha.4",
     "@math.gl/core": "^4.1.0",
-    "maplibre-gl": "^5.20.0"
+    "maplibre-gl": "^6.4.1"
   },
   "devDependencies": {
     "typescript": "^6.0.3",
